@@ -88,6 +88,7 @@ object database {
   }
 }
 ```
+![alt text](image.png)
 
 ### Consideraciones de Seguridad
 
